@@ -1,4 +1,4 @@
-# Cyborg Network - 
+# Cyborg Network - Decentralized Computing paradigms for web 3.0
 
 - **Team Name:** Cyborg Network
 - **Payment Address:** Polkadot/Kusama (USDT) payment address. Format: (e.g. 0x8920... (DAI))
@@ -36,10 +36,10 @@ Our system invites users to download and run our Cyborg Smart Client (CSC) binar
 
 We've embedded all operational logic within our pallets. Through the Cyborg Connect platform Dapp, which is integrated with our blockchain, customers have direct access to enact actions on the hosted machine. Both providers and customers can utilize our platform to view detailed analytics and metrics pertaining to their instances.
 
-1: Connection Flow for the Provider
+##1: Connection Flow for the Provider
 ![8](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/8295b8fe-5ebd-4e7a-b3dd-291e93aa5ac9)
 
-2: Customer End
+##2: Customer End
 ![9](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/cb1c204f-e8e0-4ca2-81c5-23bc0c08d938)
 
 
@@ -54,14 +54,18 @@ These solutions are designed to address real-world challenges while harnessing t
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+Cyborg Network augments the Polkadot ecosystem by ushering in decentralized cloud and edge computing, crucial for the burgeoning Web3 and blockchain landscapes. By primarily catering to Web2 application providers, we're paving the way for a fresh wave of users to engage with the Polkadot ecosystem, fueling its expansion.
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+Though Cyborg and the Phala Network share aspirations of decentralized cloud computing within the Polkadot/Kusama environment, our technical paths are distinct. Phala leans towards off-chain computation, anchored by a fortified smart contract platform. Our perspective suggests Phala may resonate more with traditional sectors, like health tech, aiming to harness blockchain's innovation. Conversely, our insights show that off-chain computation finds favor with Web2-centric applications. Hence, rather than viewing Phala as a direct rival, we consider them as a complementary entity, even if occasional market overlaps arise.
+
+Our ultimate ambition is to evolve into a comprehensive decentralized edge computing network, thereby unlocking novel markets, especially in real-time data management for edgeAI and edge IoT devices. 
+
+For instance, we've been in discussions with a firm operating security cameras monitoring vehicular compliance, like adherence to seatbelt regulations and lane discipline. Their operations grapple with latency challenges attributed to the tangible distance separating cloud data centers and the cameras. Our solution addresses this by offering proximate edge instances hosted by local entities but ensuring utmost security through a protected computing environment, a feature we're actively developing.
+
+The technological landscape sees a plethora of competitors, each carving their niche with unique technical and market strategies. Renowned names include SONM, Aleph.im, Akash, Golem, Cudos, and StackOS, among others. The vast spectrum of contenders across diverse ecosystems underscores our mission's gravity. To maintain its edge, Polkadot must foster a spectrum of cloud computing initiatives, directly rivaling centralized Web2 behemoths like AWS and Google Cloud, thereby consolidating its position against formidable adversaries.
+
+It's worth highlighting that the Solana ecosystem, discerning the nuances between different cloud computing models, endorses both in-chain (Akash) and off-chain (Aleph.im) decentralized projects. Such a discerning approach grants Solana a competitive edge in the decentralized cloud computing domain.
+
 
 ## Team :busts_in_silhouette:
 
@@ -77,46 +81,45 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 - **Contact Email:** kresnasucandra@gmail.com
 - **Website:** https://cyborgnetwork.io
 
-### Legal Structure
-
-<!-- TODO -->
-
-- **Registered Address:** 
-- **Registered Legal Entity:** 
-
 ### Team's experience
 
 - [Barath Kanna]((https://www.linkedin.com/in/barath-kanna-23a23a172)) - A developer with a specialization in Rust and blockchain technology. His experience is rooted in designing blockchain infrastructure solutions. Notably, he is an alumni of the Polkadot Blockchain Academy's third cohort at UC Berkeley (July - Aug 2023)
 
-- [Kresna Sucandra](https://www.linkedin.com/in/kresna-sucandra) - With three years of work in Rust, Substrate, and INK, Kresna has a foundational background in blockchain solutions. He was the former co-founder and head of protocol development at Invarch Network ( Polkadot and Kusama parachain). Beyond this, he is also a Polkadot Ambassador who manages the Polkadot Hub in Bali.
+- [Kresna Sucandra](https://www.linkedin.com/in/kresna-sucandra) - With three years of work in Rust, Substrate, and INK, Kresna has a foundational background in blockchain solutions. He was the former co-founder and head of protocol development at [Invarch Network](https://invarch.network/) ( Polkadot and Kusama parachain). Beyond this, he is also a Polkadot Ambassador who manages the Polkadot Hub in Bali.
 
-- [Megha Varshini](https://www.linkedin.com/in/megha-varshini-tamilarasan-b1247a212) - She has been involved in operations for Web3 projects and has taken initiatives in the blockchain community. One of her contributions is the establishment of Indi Verse DAO, a web 3.0 community with a focus on blockchain education in India. Additionally, she is the candidate of the Polkadot Ambassador Program.
+- [Megha Varshini](https://www.linkedin.com/in/megha-varshini-tamilarasan-b1247a212) - She has been involved in operations for Web3 projects and has taken initiatives in the blockchain community. One of her contributions is the establishment of [Indi Verse DAO](https://www.linkedin.com/company/indi-verse-dao), a web 3.0 community with a focus on blockchain education in India. Additionally, she is the candidate of the Polkadot Ambassador Program.
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+Project GitHub repositories.
+
+- [](https://github.com/Cyborg-Network) - Organization
+- [](https://github.com/Cyborg-Network/cyborg-node) 
+- [](https://github.com/Cyborg-Network/cyberhub) [still private]
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
+- https://github.com/beekay2706 
+- https://github.com/SHA888 
+- https://github.com/Megha2712
+  
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
-
+- https://www.linkedin.com/in/barath-kanna-23a23a172 
+- https://www.linkedin.com/in/kresna-sucandra 
+- https://www.linkedin.com/in/megha-varshini-tamilarasan-b1247a212 
 
 ## Development Status :open_book:
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+We have completed the functional side of Cyborg Smart Client (CSC) and we have lite versions of  CyberHub and Pallet Edge Connect that are configured to work with off chain workers as a PoC and we also have a demo video demonstrating the same.
+[Cyborg Network PoC 1 Demo](https://www.youtube.com/watch?v=sSNg0Q_DJyk)
 
-- links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+Currently we are migrating the configs from off chain worker to oracle support based on advice from Sacha Lansky during a Hackadot 2023 office hours. We also took development advice from Jimmy Chu during an online mentorship event.
+
+At PBA, Barath Kanna (CEO) was able to communicate the idea of Cyborg Network to various people from Parity and web3 foundation viz: Joshua Cheong, Radha Dasari, Shawn Tabrizi, Rae Deng, Clifton Yeo , Bharghav Bhatt etc. and sought valuable feedback that has greatly improved our approach towards our product. 
+
+We have been interacting closely with the square one team at Parity (Nico Morgan and Joshua Cheong) as a part of our application process for the substrate Builder’s program chains track, our application to this grant is based on their recommendation.
+
 
 ## Development Roadmap :nut_and_bolt:
 
