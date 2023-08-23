@@ -6,6 +6,8 @@
 
 ## Project Overview :page_facing_up:
 
+![Untitled design (1)](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/a33de305-fba2-4a43-ac73-fe3736c03b56)
+
 ### Overview
 
 Cyborg Network is aimed at pioneering a novel approach to decentralized cloud computing within the Polkadot Ecosystem by establishing a marketplace that harnesses crowdsourced infrastructure. As a premier venture of this nature in the Polkadot landscape, our network effortlessly allows providers to integrate their machines, rewarding them for their invaluable participation.
@@ -36,10 +38,10 @@ Our system invites users to download and run our Cyborg Smart Client (CSC) binar
 
 We've embedded all operational logic within our pallets. Through the Cyborg Connect platform Dapp, which is integrated with our blockchain, customers have direct access to enact actions on the hosted machine. Both providers and customers can utilize our platform to view detailed analytics and metrics pertaining to their instances.
 
-##1: Connection Flow for the Provider
+## 1: Connection Flow for the Provider
 ![8](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/8295b8fe-5ebd-4e7a-b3dd-291e93aa5ac9)
 
-##2: Customer End
+## 2: Customer End
 ![9](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/cb1c204f-e8e0-4ca2-81c5-23bc0c08d938)
 
 
