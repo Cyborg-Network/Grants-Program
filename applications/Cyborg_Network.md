@@ -93,9 +93,9 @@ It's worth highlighting that the Solana ecosystem, discerning the nuances betwee
 
 Project GitHub repositories.
 
-- [](https://github.com/Cyborg-Network) - Organization
-- [](https://github.com/Cyborg-Network/cyborg-node) 
-- [](https://github.com/Cyborg-Network/cyberhub) [still private]
+- https://github.com/Cyborg-Network - Organization
+- https://github.com/Cyborg-Network/cyborg-node
+- https://github.com/Cyborg-Network/cyberhub [still private]
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
@@ -112,6 +112,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 ## Development Status :open_book:
 
 We have completed the functional side of Cyborg Smart Client (CSC) and we have lite versions of  CyberHub and Pallet Edge Connect that are configured to work with off chain workers as a PoC and we also have a demo video demonstrating the same.
+
 [Cyborg Network PoC 1 Demo](https://www.youtube.com/watch?v=sSNg0Q_DJyk)
 
 Currently we are migrating the configs from off chain worker to oracle support based on advice from Sacha Lansky during a Hackadot 2023 office hours. We also took development advice from Jimmy Chu during an online mentorship event.
