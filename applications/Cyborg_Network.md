@@ -1,42 +1,49 @@
 # Cyborg Network - 
 
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** In the case of fiat payment, please share your bank account privately with grants@web3.foundation via your contact email (see below) and enter the date when you shared the information with us (e.g. Fiat 24.12.1971, 11:59) here. Otherwise, provide the BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1, 2 or 3
+- **Team Name:** Cyborg Network
+- **Payment Address:** Polkadot/Kusama (USDT) payment address. Format: (e.g. 0x8920... (DAI))
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
-> :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 ## Project Overview :page_facing_up:
-
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
-Please provide the following:
+Cyborg Network is aimed at pioneering a novel approach to decentralized cloud computing within the Polkadot Ecosystem by establishing a marketplace that harnesses crowdsourced infrastructure. As a premier venture of this nature in the Polkadot landscape, our network effortlessly allows providers to integrate their machines, rewarding them for their invaluable participation.
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+We actively oversee the provider machines, leveraging them as servers to cater to diverse customer demands, ensuring their specifications are met seamlessly.
+
+Our primary focus rests on delivering bespoke service packages, each meticulously crafted for different deployment scenarios. Our objective is to offer users a service experience reminiscent of the Web 2.0 era. While our foundation is anchored in decentralized cloud solutions, our long-term vision is set on transitioning towards a decentralized edge, especially as we delve into the flourishing AI and IoT age.
+
+We are embarking on an ambitious mission to establish ourselves as a Polkadot and Kusama parachain. Our decision is anchored in several key reasons:
+
+First, we're enticed by their advanced interoperable features, such as shared security and XCM. These functionalities pave the way for seamless integrations with other projects within the ecosystem.
+
+Second, the unparalleled ecosystem and technical support provided by Polkadot and Kusama have been instrumental in our development, and we've had the privilege of closely collaborating with them over the years.
+
+Lastly, the substrate framework stands out as the premier tool for crafting blockchains from the ground up in today's landscape. Our commitment to excellence aligns with the capabilities it offers.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+#### Architecture:
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+The core of our computing solution relies on both off-chain components and substrate pallets that work harmoniously with each other.
 
+<!-- TODO: DIAGRAM 1 -->
 
-Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
-- The (future) tokenomics of your project 
-- For non-infrastructure projects—deployment and hosting costs, maintenance or audits
-- Business-oriented activities (marketing, business planning), events or outreach
+Our system invites users to download and run our Cyborg Smart Client (CSC) binary as a root, allowing them to become a provider within our network seamlessly. Upon activation, the CSC immediately establishes a WebSocket connection with CyberHub—our sophisticated backend server and event handler. CyberHub not only serves as an oracle for our substrate blockchain but also links to a dedicated database containing all crucial business data. While these components start off centralized, we're strategically planning to transition them to decentralized structures after ensuring our business model operates flawlessly in such an environment.
+
+We've embedded all operational logic within our pallets. Through the Cyborg Connect platform Dapp, which is integrated with our blockchain, customers have direct access to enact actions on the hosted machine. Both providers and customers can utilize our platform to view detailed analytics and metrics pertaining to their instances.
+
+<!-- TODO: DIAGRAM 2 -->
+<!-- TODO: DIAGRAM 3 -->
+
+Initially, our goal is to configure the system to support predefined static instances, notably blockchain nodes. Our vision then expands to embracing custom deployments for applications and storage. By evolving in this manner, we aspire to establish ourselves as the premier decentralized computing hub for Polkadot ecosystem projects. Leveraging this infrastructure, we intend to develop transformative products such as:
+
+- A Decentralized Postgres Database
+- Decentralized CDN
+- Decentralized Personal Drive Storage
+
+These solutions are designed to address real-world challenges while harnessing the security inherent to blockchain technology.
 
 ### Ecosystem Fit
 
@@ -53,25 +60,30 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- [Barath Kanna](https://www.linkedin.com/in/barath-kanna-23a23a172) - Founder & CEO
+- [Kresna Sucandra](https://www.linkedin.com/in/kresna-sucandra) - Co-Founder & CTO
+- [Megha Varshini](https://www.linkedin.com/in/megha-varshini-tamilarasan-b1247a212) - Co-Founder & COO
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:** Your website
+- **Contact Name:** Kresna Sucandra
+- **Contact Email:** kresnasucandra@gmail.com
+- **Website:** https://cyborgnetwork.io
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+<!-- TODO -->
+
+- **Registered Address:** 
+- **Registered Legal Entity:** 
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. 
+- [Barath Kanna]((https://www.linkedin.com/in/barath-kanna-23a23a172)) - A developer with a specialization in Rust and blockchain technology. His experience is rooted in designing blockchain infrastructure solutions. Notably, he is an alumni of the Polkadot Blockchain Academy's third cohort at UC Berkeley (July - Aug 2023)
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+- [Kresna Sucandra](https://www.linkedin.com/in/kresna-sucandra) - With three years of work in Rust, Substrate, and INK, Kresna has a foundational background in blockchain solutions. He was the former co-founder and head of protocol development at Invarch Network ( Polkadot and Kusama parachain). Beyond this, he is also a Polkadot Ambassador who manages the Polkadot Hub in Bali.
+
+- [Megha Varshini](https://www.linkedin.com/in/megha-varshini-tamilarasan-b1247a212) - She has been involved in operations for Web3 projects and has taken initiatives in the blockchain community. One of her contributions is the establishment of Indi Verse DAO, a web 3.0 community with a focus on blockchain education in India. Additionally, she is the candidate of the Polkadot Ambassador Program.
 
 ### Team Code Repos
 
