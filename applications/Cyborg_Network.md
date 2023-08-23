@@ -28,14 +28,21 @@ Lastly, the substrate framework stands out as the premier tool for crafting bloc
 
 The core of our computing solution relies on both off-chain components and substrate pallets that work harmoniously with each other.
 
-<!-- TODO: DIAGRAM 1 -->
+
+![IoT Devices (1920 × 1250 px)](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/84f62d3a-d53a-4531-af86-498acaf6cbba)
+
 
 Our system invites users to download and run our Cyborg Smart Client (CSC) binary as a root, allowing them to become a provider within our network seamlessly. Upon activation, the CSC immediately establishes a WebSocket connection with CyberHub—our sophisticated backend server and event handler. CyberHub not only serves as an oracle for our substrate blockchain but also links to a dedicated database containing all crucial business data. While these components start off centralized, we're strategically planning to transition them to decentralized structures after ensuring our business model operates flawlessly in such an environment.
 
 We've embedded all operational logic within our pallets. Through the Cyborg Connect platform Dapp, which is integrated with our blockchain, customers have direct access to enact actions on the hosted machine. Both providers and customers can utilize our platform to view detailed analytics and metrics pertaining to their instances.
 
-<!-- TODO: DIAGRAM 2 -->
-<!-- TODO: DIAGRAM 3 -->
+1: Connection Flow for the Provider
+![8](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/8295b8fe-5ebd-4e7a-b3dd-291e93aa5ac9)
+
+2: Customer End
+![9](https://github.com/Cyborg-Network/Grants-Program/assets/93442895/cb1c204f-e8e0-4ca2-81c5-23bc0c08d938)
+
+
 
 Initially, our goal is to configure the system to support predefined static instances, notably blockchain nodes. Our vision then expands to embracing custom deployments for applications and storage. By evolving in this manner, we aspire to establish ourselves as the premier decentralized computing hub for Polkadot ecosystem projects. Leveraging this infrastructure, we intend to develop transformative products such as:
 
