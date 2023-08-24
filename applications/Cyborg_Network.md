@@ -80,7 +80,7 @@ It's worth highlighting that the Solana ecosystem, discerning the nuances betwee
 
 ### Team's experience
 
-- [Barath Kanna]((https://www.linkedin.com/in/barath-kanna-23a23a172)) - A developer with a specialization in Rust and blockchain technology. His experience is rooted in designing blockchain infrastructure solutions. Notably, he is an alumni of the Polkadot Blockchain Academy's third cohort at UC Berkeley (July - Aug 2023)
+- [Barath Kanna](https://www.linkedin.com/in/barath-kanna-23a23a172) - A developer with a specialization in Rust and blockchain technology. His experience is rooted in designing blockchain infrastructure solutions. Notably, he is an alumni of the Polkadot Blockchain Academy's third cohort at UC Berkeley (July - Aug 2023)
 
 - [Kresna Sucandra](https://www.linkedin.com/in/kresna-sucandra) - With three years of work in Rust, Substrate, and INK, Kresna has a foundational background in blockchain solutions. He was the former co-founder and head of protocol development at [Invarch Network](https://invarch.network/) ( Polkadot and Kusama parachain). Beyond this, he is also a Polkadot Ambassador who manages the Polkadot Hub in Bali.
 
