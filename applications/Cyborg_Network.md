@@ -126,9 +126,9 @@ The goal is to achieve a functional system capable of hosting predefined static 
 
 ### Overview
 
-Total Estimated Duration: 4 months
-Full-Time Equivalent (FTE): 4 ( 2 Full time Developers at 0.5 FTE/month)
-Total Costs: 30,000 USD
+- **Total Estimated Duration:** 4 months
+- **Full-Time Equivalent (FTE):** 4 ( 2 Full time Developers at 0.5 FTE/month)
+- **Total Costs:** 30,000 USD
 
 ### Milestone 1 - Basic functionality (MVP)
 
