@@ -2,7 +2,7 @@
 
 - **Team Name:** Cyborg Network
 - **Payment Address:** Polkadot/Kusama (USDT) payment address. Format: (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
+- **Level:** 2
 
 ## Project Overview :page_facing_up:
 
