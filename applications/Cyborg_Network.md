@@ -145,11 +145,11 @@ We have been interacting closely with the square one team at Parity (Nico Morgan
 
 ## Future Plans
 
-- **Short term plans:** We intend to use the grant to develop the core functionality of Cyborg Network and to establish ourselves as a Polkadot and Kusama parachain. We will also use the grant to develop our website and to promote our project in the Polkadot ecosystem.
+- **Short term plans:** We intend to use the grant to develop the core functionality of Cyborg Network and to establish ourselves as a Polkadot and Kusama parachain. We will also use the grant to develop our dApp platform and to promote our project in the Polkadot ecosystem.
 - **Long term plans:** We intend to build Cyborg Network into a comprehensive decentralized edge computing network, thereby unlocking novel markets, especially in real-time data management for edgeAI and edge IoT devices. We also plan to support additional features like edge server monetization, server hardware management and upgrades over time.
 
 ## Additional Information :heavy_plus_sign:
 
-We are applying for this grant based on the recommendation from the square one team at Parity as a part of our application to the Substrate Builder's program.
+We are applying for this grant based on the recommendation from the Square One team at Parity as a part of our application to the Substrate Builders Program (SBP).
 
-Kresna(CTO) has also contributed to the [Chocolate Network](https://choc.network/) as a substrate developer for their SBP milestone 1 delivery which has been completed successfully.
+Kresna (CTO) has also contributed to the **InvArch's Web3 Foundation Grant** [Milestone 1](https://github.com/w3f/Grant-Milestone-Delivery/blob/7932b07cc38150701ba8ed034723193f66002975/deliveries/InvArch_M1.md) that has been completed successfully. He also contributed to the  [Chocolate Network](https://substrate.io/ecosystem/projects/chocolate/) as a Substrate developer for their Substrate Builder Program (SBP) Milestone 1 delivery which has been completed successfully.
