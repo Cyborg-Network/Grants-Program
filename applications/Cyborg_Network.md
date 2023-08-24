@@ -126,7 +126,7 @@ We have been interacting closely with the square one team at Parity (Nico Morgan
 
 - **Estimated duration:** 4 month
 - **FTE:**  4
-- **Costs:** 20,000 USD
+- **Costs:** 30,000 USD
 
 #### **Deliverables:**
 
@@ -137,8 +137,7 @@ We have been interacting closely with the square one team at Parity (Nico Morgan
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.) |
-| 1. | Pallet Edge Connect | This Substrate module will facilitate uninterrupted communication between edge servers managed by providers and the Cyborg's Substrate-based blockchain. The primary role of this pallet is to broadcast events that populate the database with server information. Additionally, it sporadically broadcasts events to verify the connectivity of all servers, updating the outcome in the pallet's reward mechanism to adjust incentives accordingly.
- |
+| 1. | Pallet Edge Connect | This Substrate module will facilitate uninterrupted communication between edge servers managed by providers and the Cyborg's Substrate-based blockchain. The primary role of this pallet is to broadcast events that populate the database with server information. Additionally, it sporadically broadcasts events to verify the connectivity of all servers, updating the outcome in the pallet's reward mechanism to adjust incentives accordingly.|
 | 2. | Pallet Rewards v1 | This Substrate module will offer foundational incentives to providers for maintaining consistent network connectivity. Rewards are recalculated hourly in the database based on random connectivity assessments by the edge connect pallet, with daily payout distribution. |
 | 3. | Database v1 | This component will be a streamlined database instance dedicated to capturing details about diverse client connections. Its primary function is to facilitate optimal server selection for customers, tailored to their specifications, geographic location, and other criteria. The CyberHub will dynamically retrieve data in response to blockchain events. |
 | 4. | CyberHub | CyberHub will be a hybrid backend server in Rust that serves multiple purposes: it routes messages among all connected clients, queries the database, manages events triggered by the blockchain, and submits real-world data to the blockchain, acting as an oracle. The CSC promptly establishes a WebSocket connection with the CyberHub. |
