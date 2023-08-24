@@ -120,7 +120,15 @@ We have been interacting closely with the square one team at Parity (Nico Morgan
 
 ## Development Roadmap :nut_and_bolt:
 
+We will be developing our MVP as a part for this grant.
+
+The goal is to achieve a functional system capable of hosting predefined static instances like blockchain nodes.
+
 ### Overview
+
+Total Estimated Duration: 4 months
+Full-Time Equivalent (FTE): 4 ( 2 Full time Developers at 0.5 FTE/month)
+Total Costs: 30,000 USD
 
 ### Milestone 1 - Basic functionality (MVP)
 
