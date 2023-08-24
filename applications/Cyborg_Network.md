@@ -122,7 +122,7 @@ We have been interacting closely with the square one team at Parity (Nico Morgan
 
 ### Overview
 
-### Milestone 1 - Basic functionality
+### Milestone 1 - Basic functionality (MVP)
 
 - **Estimated duration:** 4 month
 - **FTE:**  4
@@ -150,10 +150,6 @@ We have been interacting closely with the square one team at Parity (Nico Morgan
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+We are applying for this grant based on the recommendation from the square one team at Parity as a part of our application to the Substrate Builder's program.
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+Kresna(CTO) has also contributed to the [Chocolate Network](https://choc.network/) as a substrate developer for their SBP milestone 1 delivery which has been completed successfully.
