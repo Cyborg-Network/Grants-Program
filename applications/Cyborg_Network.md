@@ -1,7 +1,7 @@
 # Cyborg Network - Decentralized Computing paradigms for web 3.0
 
 - **Team Name:** Cyborg Network
-- **Payment Address:** Polkadot/Kusama (USDT) payment address. Format: (e.g. 0x8920... (DAI))
+- **Payment Address:** 14zZ3LXmJRHRZKU7cQYKxjXGJtoZN1peazo79YmsRp6AA6i4 (DOT)
 - **Level:** 2
 
 ## Project Overview :page_facing_up:
@@ -114,7 +114,7 @@ We have completed the functional side of Cyborg Smart Client (CSC) and we have l
 
 Currently we are migrating the configs from off chain worker to oracle support based on advice from Sacha Lansky during a Hackadot 2023 office hours. We also took development advice from Jimmy Chu during an online mentorship event.
 
-At PBA, Barath Kanna (CEO) was able to communicate the idea of Cyborg Network to various people from Parity and web3 foundation viz: Joshua Cheong, Radha Dasari, Shawn Tabrizi, Rae Deng, Clifton Yeo , Bharghav Bhatt etc. and sought valuable feedback that has greatly improved our approach towards our product.
+At PBA, Barath Kanna (CEO) was able to communicate the idea of Cyborg Network to various people from Parity and web3 foundation viz: Joshua Cheong, Radha Dasari, Shawn Tabrizi, Rae Deng, Clifton Yeo, Tim Dobie, Max Wegman, Bharghav Bhatt etc. and sought valuable feedback that has greatly improved our approach towards our product.
 
 We have been interacting closely with the square one team at Parity (Nico Morgan and Joshua Cheong) as a part of our application process for the substrate Builder’s program chains track, our application to this grant is based on their recommendation.
 
